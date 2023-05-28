@@ -13,4 +13,6 @@ print(lst1)
 
 del(lst1[33])
 
+print(lst1.remove('33'))
+
 print(lst1)
